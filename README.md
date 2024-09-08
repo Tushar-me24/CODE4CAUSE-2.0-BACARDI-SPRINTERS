@@ -5,7 +5,7 @@ ArchDo Paints is an AI-powered AR home improvement application designed to assis
 Features
 1. Personality Test Submission
 Endpoint: /api/personality/submit/
-Description: Users can submit their personality test answers along with their gender. The data is sent to an external API for processing, and the results are returned to provide personalized paint project suggestions.
+Description: Users can enter their answers to a personality test in combination with their gender. Results are then sent securely to an external API for processing. From there, personalized paint project suggestions that best fit the specific profile are created for each user.
 2. ChatGPT Interaction
 Endpoint: /api/chatgpt/
 Description: Allows users to interact with OpenAI’s ChatGPT for personalized conversational experiences regarding their home improvement projects.
